@@ -249,8 +249,8 @@ Team of students from Saveetha Institute of Medical and Technical Sciences:
 
 ## Contact
 
-Sujan Saitej L
-Email: sujansaitej07@gmail.com
+Sujan Saitej L 
+Email: sujansaitej07@gmail.com 
 Phone: +91 93618 60665
 
 ## Thank You 🙏
