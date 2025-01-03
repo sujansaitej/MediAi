@@ -43,7 +43,7 @@ When a user interacts with the MEDIAi platform, the experience is designed to be
 - The dashboard offers easy access to all tools and features.
 - Includes graphical insights and trends related to misinformation detection.
 <p align="center">
-  <img width="650" height="500" src="https://github.com/sujansaitej/MediAi/blob/Product-MediAi/images/Dashboard.jpg?raw=true">
+  <img width="650" height="450" src="https://github.com/sujansaitej/MediAi/blob/Product-MediAi/images/Dashboard.jpg?raw=true">
 </p>
 
 ## Prerequisites
