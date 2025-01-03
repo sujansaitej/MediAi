@@ -20,6 +20,32 @@ This phased approach ensures that MEDIAi is built on a strong foundation, with n
 - Multi-language support
 - Confidence scoring system
 
+## User Interface Overview 🖥️
+When a user interacts with the MEDIAi platform, the experience is designed to be intuitive and streamlined:
+
+#### Landing Page
+
+- 📌 All users are redirected to the landing page upon visiting the website.
+
+#### Registration for New Users
+- 📝 New users will find an option to register.
+- Registration ensures access to all tools and features after account creation.
+- ![Placeholder for Registration Page Image]
+
+#### Login for Existing Users
+
+- 🔑 Existing users can log in using their credentials.
+- Forgot password? Use the recovery option to regain access.
+
+#### Main Dashboard
+
+- 🚀 Once logged in, users are redirected to the main dashboard.
+- The dashboard offers easy access to all tools and features.
+- Includes graphical insights and trends related to misinformation detection.
+<p align="center">
+  <img width="550" height="450" src="https://github.com/sujansaitej/MediAi/blob/Product-MediAi/images/Dashboard.jpg?raw=true">
+</p>
+
 ## Prerequisites
 
 What things you need to install the software and how to install them:
