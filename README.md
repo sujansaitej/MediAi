@@ -30,7 +30,6 @@ When a user interacts with the MEDIAi platform, the experience is designed to be
 #### Registration for New Users
 - 📝 New users will find an option to register.
 - Registration ensures access to all tools and features after account creation.
-- ![Placeholder for Registration Page Image]
 
 #### Login for Existing Users
 
